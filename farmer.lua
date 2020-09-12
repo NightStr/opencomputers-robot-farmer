@@ -45,4 +45,5 @@ while true do
         end
     end
     unloading()
+    os.sleep(10)
 end
